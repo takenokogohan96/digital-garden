@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/me/takeno/"}
+{"dg-publish":true,"permalink":"/me/takeno/","created":"2026-01-01T23:41:08.725+09:00","updated":"2025-12-30T07:53:06.000+09:00"}
 ---
 
 # Profile
