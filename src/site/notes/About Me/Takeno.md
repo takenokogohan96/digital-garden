@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/takeno/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-07T00:28:40.145+09:00"}
+{"dg-publish":true,"permalink":"/about-me/takeno/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-07T01:01:16.252+09:00"}
 ---
 
 > [!tip] information
@@ -11,30 +11,19 @@
 | 🧭  | [INFJ](https://www.google.com/search?q=INFJ)        |
 | 🎨  | [4F7165](https://www.google.com/search?q=%234f7165) |
 
-
-
-
 # 趣味
-- 資格取得 (  [[About Me/趣味/保有資格一覧\|保有資格一覧]] )
-- Gran Turismo 7
-- サイクリング - ARAYA Diagonale ( リア13-26T仕様 )
-- 
 
-### 自宅サーバ/NW弄り
-### カメラ
+- 📜**資格取得** - [[About Me/趣味/取得資格一覧\|取得資格一覧]]
+- 🚲**サイクリング** - [ARAYA Diagonale](https://araya-rinkai.jp/dia.html)
+- ✨**iM@S(所恵美担当)** 
+- 🎮**GT7(Gr.3~PP600)** 
 
-### iM@S
-担当は所恵美
-### Gran Turismo 7
-主なクラスは Gr.3 ~ PP600
-### 
+# ちょっと自信あること
+
 
 # Link
-## misskey
-- [misskey.io](https://misskey.io/@takenokogohan96)
-- [live-theater.net](https://live-theater.net/@takenokogohan96)
-## Tech
+- [misskey.io](https://misskey.io/@takenokogohan96) - SNS (日常)
+- [live-theater.net](https://live-theater.net/@takenokogohan96) - SNS (ミリオンライブ!)
 - [Github](https://github.com/takenokogohan96)
-## Game
 - [Steam](https://steamcommunity.com/id/takenokogohan96)
 - [PSNPROFILE](https://psnprofiles.com/takenokogohan96)
