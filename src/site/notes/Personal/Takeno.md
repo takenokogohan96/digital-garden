@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-09T01:41:47.696+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-09T02:10:17.678+09:00"}
 ---
 
 本サイトとドメイン `takeno.tech` の持ち主。読み方はそのまま「たけの」
@@ -15,5 +15,6 @@
 - [misskey.io](https://misskey.io/@takenokogohan96) - SNS
 - [live-theater.net](https://live-theater.net/@takenokogohan96) - SNS
 - [Github](https://github.com/takenokogohan96) - 作ったもの
+- [Youtube](https://www.youtube.com/channel/UCpMu4e-LOxfTBLCHquU5_Zg) - 作ったもの
 - [Steam](https://steamcommunity.com/id/takenokogohan96) - 遊んだもの 
 - [PSNPROFILE](https://psnprofiles.com/takenokogohan96) - 遊んだもの
