@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ubuntu-docker","permalink":"/ubuntu-docker/","created":"2026-01-18T13:33:05.980+09:00","updated":"2026-01-18T13:52:54.967+09:00"}
+{"dg-publish":true,"dg-permalink":"ubuntu-docker","permalink":"/ubuntu-docker/","created":"2026-01-18T13:33:05.980+09:00","updated":"2026-01-18T14:42:52.281+09:00"}
 ---
 
 基本dockerdocs公式の [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) の通り
@@ -32,23 +32,38 @@ sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin dock
 ```
 sudo systemctl status docker
 ```
-# 持ってるイメージを表示する
+# イメージとコンテナを表示する
 ```
+# イメージ
 docker images
-```
-# 持ってるコンテナを表示する
-```
-＃　起動中のコンテナ
+
+# コンテナ
 docker ps
 
-# 停止中も含めすべてのコンテナ
+# コンテナ（停止中含む）
 docker ps -a
 ```
-# コンテナを削除する
+# イメージを取得する
 ```
+# Docker Hub からDLする
+docker pull ｛リポジトリ名｝
+```
+# # イメージとコンテナを削除する
+```
+# コンテナ
 docker rm {コンテナID}
-```
-# イメージを削除する
-```
+
+# イメージ
 docker rmi {イメージ名}
+```
+
+# Docker Compose で コンテナを起動する
+1. あらかじめ `docker-compose.yml` を作成する
+2. コマンドを入力する
+```
+# イメージを更新してコンテナを起動する
+docker compose up --build
+
+# バックグラウンドで起動する
+docker compose up --build -d
 ```
