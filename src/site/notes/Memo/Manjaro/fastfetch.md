@@ -4,4 +4,4 @@
 
 かつては `Neofetch` が使用されていたが開発が終了している
 現在使用できる近しいものに `Fastfetch` がある
-![fastfetch.png](/img/user/img/Tech/fastfetch.png)
+![fastfetch.png](/img/user/_img/Tech/fastfetch.png)

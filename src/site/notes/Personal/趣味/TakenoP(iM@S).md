@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-01-25T06:21:02.000+09:00","updated":"2026-02-04T23:29:26.555+09:00"}
 ---
 
-![mltd_card.jpg](/img/user/img/Personal/mltd_card.jpg)
+![mltd_card.jpg](/img/user/_img/Personal/mltd_card.jpg)
 ## MLTDイベント成績
 
 |        イベント名         |    獲得pt     |  順位   |
@@ -30,4 +30,4 @@
 
 ## 全国プロデューサー検定（アイマス検定）
 
-![imas_credentials.jpg](/img/user/img/Personal/imas_credentials.jpg)
+![imas_credentials.jpg](/img/user/_img/Personal/imas_credentials.jpg)

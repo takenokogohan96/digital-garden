@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"xeonServer-machine","permalink":"/xeonServer-machine/","created":"2026-01-17T09:01:40.000+09:00","updated":"2026-02-01T14:16:06.648+09:00"}
 ---
 
-![rm21-308.png](/img/user/img/Personal/rm21-308.png)![xeon-server.jpg](/img/user/img/Personal/xeon-server.jpg)
+![rm21-308.png](/img/user/_img/Personal/rm21-308.png)![xeon-server.jpg](/img/user/_img/Personal/xeon-server.jpg)
 
 ## テーマ
 - 自宅にXeon鯖、ラックマウント機の浪漫を叶える
