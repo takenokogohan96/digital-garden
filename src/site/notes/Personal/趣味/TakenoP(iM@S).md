@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-01-25T06:21:02.000+09:00","updated":"2026-02-04T23:29:26.555+09:00"}
+{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-01-25T06:21:02.000+09:00","updated":"2026-02-25T01:36:45.118+09:00"}
 ---
 
 ![mltd_card.jpg](/img/user/_img/Personal/mltd_card.jpg)
@@ -13,7 +13,7 @@
 |   **超々∞MUGEND@I!**   | 8,019,895pt | 恵美3位  |
 詳細レポート
 - [[Personal/趣味/imas/7周年イベントで恵美21位になった話【7D@ys Smile!!】\|7周年イベントで恵美21位になった話【7D@ys Smile!!】]]
-- 8周年イベントで恵美3位になった話【超々∞MUGEND@I!】※移設中
+- [[Personal/趣味/imas/8周年イベントで恵美3位になった話【超々∞MUGEND@I!】\|8周年イベントで恵美3位になった話【超々∞MUGEND@I!】]]
 ## MLTD年次統計
 締め日：毎年7月18日
 

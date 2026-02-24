@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"mltd-7th","permalink":"/mltd-7th/","created":"2026-02-04T20:30:13.640+09:00","updated":"2026-02-04T23:04:55.092+09:00"}
+{"dg-publish":true,"dg-permalink":"mltd-7th","permalink":"/mltd-7th/","created":"2026-02-04T20:30:13.640+09:00","updated":"2026-02-25T01:36:32.902+09:00"}
 ---
 
 ## 基本情報
 担当歴：11か月
-PLv：298  > 376（イベント後）
+PLv：298 > 376（イベント後）
 過去周年イベント結果：参加なし
 ## イベント参加動機
 ### 100傑のリベンジ 
@@ -77,7 +77,8 @@ PLv：298  > 376（イベント後）
 これからも頑張ります。めぐみーと共に
 ### スペシャルサンクス
 - 復職と休暇日の調整をしていただいた会社
-- 期間中応援をくださった友人、 [live-theater.net](https://live-theater.net/) の皆様
+- 期間中応援をくださったリアル友人の皆様
+- 期間中応援をくださった [live-theater.net](https://live-theater.net/) の皆様
 
 [^1]: https://live-theater.net/notes/9kgkvgip0l
 
