@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"mltd-7th","permalink":"/mltd-7th/","created":"2026-02-04T20:30:13.640+09:00","updated":"2026-02-25T01:36:32.902+09:00"}
+{"dg-publish":true,"dg-permalink":"mltd-7th","permalink":"/mltd-7th/","created":"2026-02-04T20:30:13.640+09:00","updated":"2026-02-26T00:11:23.732+09:00"}
 ---
 
+2024年の7月、ミリシタ7周年イベントを走りました
+![7th-ad.jpg](/img/user/_img/imas/7th-ad.jpg)
 ## 基本情報
 担当歴：11か月
 PLv：298 > 376（イベント後）

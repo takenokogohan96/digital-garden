@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"mltd-8th","permalink":"/mltd-8th/","created":"2026-02-25T00:17:59.685+09:00","updated":"2026-02-25T23:06:28.018+09:00"}
+{"dg-publish":true,"dg-permalink":"mltd-8th","permalink":"/mltd-8th/","created":"2026-02-25T00:17:59.685+09:00","updated":"2026-02-26T00:08:50.911+09:00"}
 ---
 
+2025年の7月、ミリシタ8周年イベントを走りました
+![8th-ad.jpg](/img/user/_img/imas/8th-ad.jpg)
 ## 基本情報
 担当歴：1年11か月
 PLv：418 > 505（イベント後）
