@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"xeonServer-machine","permalink":"/xeonServer-machine/","created":"2026-01-17T09:01:40.000+09:00","updated":"2026-02-01T14:16:06.648+09:00"}
+{"dg-publish":true,"dg-permalink":"xeonServer-machine","permalink":"/xeonServer-machine/","created":"2026-01-17T09:01:40.000+09:00","updated":"2026-02-27T01:32:49.062+09:00"}
 ---
 
-![rm21-308.png](/img/user/_img/Personal/rm21-308.png)![xeon-server.jpg](/img/user/_img/Personal/xeon-server.jpg)
-
+![xeonserver-rm21308.png](/img/user/_img/Personal/xeonserver-rm21308.png)![xeonserver.jpg](/img/user/_img/Personal/xeonserver.jpg)## レポート
+- [[Personal/機材/Xeon E5-2682 v4 でサーバを構築した話\|Xeon E5-2682 v4 でサーバを構築した話]]
 ## テーマ
 - 自宅にXeon鯖、ラックマウント機の浪漫を叶える
-
 ## 構成
 
 |    部位    |                                       名称                                       |
