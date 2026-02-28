@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"#Report","permalink":"/#Report/","tags":["DB"],"created":"2026-02-28T21:39:50.458+09:00","updated":"2026-02-28T21:45:27.657+09:00"}
+{"dg-publish":true,"dg-permalink":"report","permalink":"/report/","tags":["DB"],"created":"2026-02-28T21:39:50.458+09:00","updated":"2026-02-28T21:47:28.284+09:00"}
 ---
 
 - [[Personal/趣味/imas/ミリシタ7周年イベントで恵美21位になった話【7D@ys Smile!!】\|ミリシタ7周年イベントで恵美21位になった話【7D@ys Smile!!】]]
