@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-28T21:56:04.699+09:00"}
+{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","tags":["Showcase"],"created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-28T22:02:42.541+09:00"}
 ---
 
 ![mltd_card.jpg](/img/user/_img/imas/mltd_card.jpg)

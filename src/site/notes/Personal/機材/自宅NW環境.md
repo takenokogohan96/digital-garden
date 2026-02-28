@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home-network","permalink":"/home-network/","created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-28T21:55:59.149+09:00"}
+{"dg-publish":true,"dg-permalink":"home-network","permalink":"/home-network/","tags":["Showcase"],"created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-28T22:02:30.091+09:00"}
 ---
 
 ## ラック
