@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mltd-7th","permalink":"/mltd-7th/","created":"2026-02-04T20:30:13.640+09:00","updated":"2026-02-26T00:11:23.732+09:00"}
+{"dg-publish":true,"dg-permalink":"mltd-7th","permalink":"/mltd-7th/","tags":["Report"],"created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-28T21:39:07.588+09:00"}
 ---
 
 2024年の7月、ミリシタ7周年イベントを走りました

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gnome-mount-googledrive","permalink":"/gnome-mount-googledrive/","created":"2026-01-17T07:40:00.000+09:00","updated":"2026-02-01T23:57:22.479+09:00"}
+{"dg-publish":true,"dg-permalink":"gnome-mount-googledrive","permalink":"/gnome-mount-googledrive/","created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-01T06:57:22.000+09:00"}
 ---
 
 ## ファイラーに Google Drive を表示する

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rtx1210-static-ipmasquerade","permalink":"/rtx1210-static-ipmasquerade/","created":"2026-01-17T07:52:28.000+09:00","updated":"2026-02-01T21:29:37.057+09:00"}
+{"dg-publish":true,"dg-permalink":"rtx1210-static-ipmasquerade","permalink":"/rtx1210-static-ipmasquerade/","created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-01T04:29:36.000+09:00"}
 ---
 
 WebGUIで静的IPマスカレードを設定する

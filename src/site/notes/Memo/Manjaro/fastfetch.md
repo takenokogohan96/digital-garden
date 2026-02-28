@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"manjaro-fastfetch","permalink":"/manjaro-fastfetch/","created":"2026-01-13T08:33:24.000+09:00","updated":"2026-01-13T08:33:24.000+09:00"}
+{"dg-publish":true,"dg-permalink":"manjaro-fastfetch","permalink":"/manjaro-fastfetch/","created":"2026-02-28T19:47:23.193+09:00","updated":"2026-02-01T04:32:12.000+09:00"}
 ---
 
 かつては `Neofetch` が使用されていたが開発が終了している

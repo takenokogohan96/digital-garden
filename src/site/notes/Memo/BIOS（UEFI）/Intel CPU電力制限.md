@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"intelcpu-powerlimit","permalink":"/intelcpu-powerlimit/","created":"2026-02-15T13:44:33.708+09:00","updated":"2026-02-15T14:02:39.134+09:00"}
+{"dg-publish":true,"dg-permalink":"intelcpu-powerlimit","permalink":"/intelcpu-powerlimit/","created":"2026-02-28T19:47:23.200+09:00","updated":"2026-02-14T21:02:38.000+09:00"}
 ---
 
 
