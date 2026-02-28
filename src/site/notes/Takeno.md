@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-28T22:05:11.812+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-03-01T02:16:58.438+09:00","updated":"2026-02-28T22:05:11.000+09:00"}
 ---
 
 読み方はそのまま「たけの」。性格は [INFJ](https://www.google.com/search?q=INFJ) 

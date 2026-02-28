@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rtx1210-consoleport","permalink":"/rtx1210-consoleport/","created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-01T04:28:20.000+09:00"}
+{"dg-publish":true,"dg-permalink":"rtx1210-consoleport","permalink":"/rtx1210-consoleport/","created":"2026-03-01T02:17:25.232+09:00","updated":"2026-02-01T04:28:20.000+09:00"}
 ---
 
 ## 用意するもの

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"manjaro-install-fcitx5","permalink":"/manjaro-install-fcitx5/","created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-01T04:31:38.000+09:00"}
+{"dg-publish":true,"dg-permalink":"manjaro-install-fcitx5","permalink":"/manjaro-install-fcitx5/","created":"2026-03-01T02:17:21.373+09:00","updated":"2026-02-01T04:31:38.000+09:00"}
 ---
 
 日本語入力IMEの Fictx5を導入する

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"cpu-governor","permalink":"/cpu-governor/","created":"2026-02-28T19:47:23.193+09:00","updated":"2026-02-14T20:26:18.000+09:00"}
+{"dg-publish":true,"dg-permalink":"cpu-governor","permalink":"/cpu-governor/","created":"2026-03-01T02:17:20.315+09:00","updated":"2026-02-14T20:26:18.000+09:00"}
 ---
 
 使用できる動作モードの一覧を表示

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","tags":["Showcase"],"created":"2026-02-28T19:47:23.196+09:00","updated":"2026-02-28T22:02:42.541+09:00"}
+{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","tags":["Showcase"],"created":"2026-03-01T02:17:24.303+09:00","updated":"2026-03-01T02:24:24.407+09:00"}
 ---
 
-![mltd_card.jpg](/img/user/_img/imas/mltd_card.jpg)
+![mltd_card.png](/img/user/_img/imas/mltd_card.png)
 ## レポート
 - [[Personal/趣味/imas/ミリシタ7周年イベントで恵美21位になった話【7D@ys Smile!!】\|ミリシタ7周年イベントで恵美21位になった話【7D@ys Smile!!】]]
 - [[Personal/趣味/imas/ミリシタ8周年イベントで恵美3位になった話【超々∞MUGEND@I!】\|ミリシタ8周年イベントで恵美3位になった話【超々∞MUGEND@I!】]]

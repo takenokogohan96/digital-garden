@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"a770-machine-build","permalink":"/a770-machine-build/","tags":["Report"],"created":"2026-02-28T19:47:23.200+09:00","updated":"2026-02-28T21:39:16.601+09:00"}
+{"dg-publish":true,"dg-permalink":"a770-machine-build","permalink":"/a770-machine-build/","tags":["Report"],"created":"2026-03-01T02:17:23.951+09:00","updated":"2026-02-28T21:39:16.000+09:00"}
 ---
 
 2024年10月頃、Intel A770 Limited Edition を軸にメイン機を自作しました。
