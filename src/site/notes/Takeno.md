@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","tags":["Index"],"created":"2026-03-01T02:16:58.438+09:00","updated":"2026-03-01T20:47:15.444+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","tags":["Index"],"created":"2026-03-01T02:16:58.438+09:00","updated":"2026-03-01T21:00:05.333+09:00"}
 ---
 
 ## プロフィール
-- **読み** - たけの
-- **MBTI** - [INFJ](https://www.google.com/search?q=INFJ) 
-- **アクセント** - `#99a8ff`
+- 📛**読み** - たけの
+- 🧭**MBTI** - [INFJ](https://www.google.com/search?q=INFJ) 
+- 🎨**アクセント** - `#99a8ff`
 ## 趣味
 - 💻**機材** - [[Showcase/保有機材一覧\|保有機材一覧]]
 - 💻**ホームラボ** -[[Showcase/自宅NW環境\|自宅NW環境]]
