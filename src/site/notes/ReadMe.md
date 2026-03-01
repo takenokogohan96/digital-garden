@@ -16,20 +16,15 @@
 { .block-language-dataview}
 ## Memo
 *簡素なメモとか手順書*
-- [[Memo/Ubuntu/aptコマンド\|aptコマンド]]
-- [[Memo/Ubuntu/CPUガバナー\|CPUガバナー]]
-- [[Memo/Ubuntu/Docker(Ubuntu)\|Docker(Ubuntu)]]
-- [[Memo/Manjaro/fastfetch\|fastfetch]]
-- [[Memo/Manjaro/Fcitx5\|Fcitx5]]
-- [[Memo/BIOS（UEFI）/Intel CPU電力制限\|Intel CPU電力制限]]
-- [[Memo/Manjaro/papirus(theme)\|papirus(theme)]]
-- [[Memo/BIOS（UEFI）/RTCアラーム起動\|RTCアラーム起動]]
-- [[Memo/Manjaro/swap領域\|swap領域]]
-- [[Memo/Manjaro/フォント\|フォント]]
 - [[Memo/Windows\|Windows]]
 - [[Memo/Android\|Android]]
 - [[Memo/RTX1210\|RTX1210]]
 - [[Memo/Gnome\|Gnome]]
+- [[Memo/Docker\|Docker]]
+- [[Memo/Proxmox\|Proxmox]]
+- [[Memo/Ubuntu\|Ubuntu]]
+- [[Memo/BIOS（UEFI）\|BIOS（UEFI）]]
+- [[Memo/Manjaro（setup）\|Manjaro（setup）]]
 
 { .block-language-dataview}
 ---
