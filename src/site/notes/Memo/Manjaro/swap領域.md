@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"manjaro-swap","permalink":"/manjaro-swap/","created":"2026-03-01T02:17:21.146+09:00","updated":"2026-02-01T04:32:02.000+09:00"}
+{"dg-publish":true,"dg-permalink":"manjaro-swap","permalink":"/manjaro-swap/","tags":["Memo"],"created":"2026-03-01T02:17:21.146+09:00","updated":"2026-03-01T18:24:08.641+09:00"}
 ---
 
 新規にManjaroをインストールしたさいスワップファイル作成する設定にしても、数百MB程度しかスワップ領域が確保されない場合がある

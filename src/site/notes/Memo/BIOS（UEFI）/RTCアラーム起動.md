@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rtcalarm","permalink":"/rtcalarm/","created":"2026-03-01T02:17:24.726+09:00","updated":"2026-02-14T21:07:46.000+09:00"}
+{"dg-publish":true,"dg-permalink":"rtcalarm","permalink":"/rtcalarm/","tags":["Memo"],"created":"2026-03-01T02:17:24.726+09:00","updated":"2026-03-01T18:24:07.668+09:00"}
 ---
 
 

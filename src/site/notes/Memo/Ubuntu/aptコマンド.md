@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ubuntu-apt","permalink":"/ubuntu-apt/","created":"2026-03-01T02:17:20.400+09:00","updated":"2026-02-01T04:30:48.000+09:00"}
+{"dg-publish":true,"dg-permalink":"ubuntu-apt","permalink":"/ubuntu-apt/","tags":["Memo"],"created":"2026-03-01T02:17:20.400+09:00","updated":"2026-03-01T18:23:29.491+09:00"}
 ---
 
 ## パッケージリストを更新する
