@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T02:16:58.402+09:00","updated":"2026-03-01T20:23:40.171+09:00"}
+{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T02:16:58.402+09:00","updated":"2026-03-01T20:45:02.173+09:00"}
 ---
 
-## Welcome to Docs
+# Welcome to Docs
 本サイト `docs.takeno.tech` は [[Takeno\|Takeno]] の外向けドキュメント集です。
 🏗️ : [Obsidian](https://obsidian.md/)  +  [Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) + [vercel](https://vercel.com)
-### Report
+## Report
+*不特定多数へ向けた読み物*
 - [[Report/Xeon E5-2682 v4 でサーバを構築した話\|Xeon E5-2682 v4 でサーバを構築した話]]
 - [[Report/Intel A770 LEでメイン機を組んだ話\|Intel A770 LEでメイン機を組んだ話]]
 - [[Report/Intel A770 で 登場直後のMHWsベンチを回した話\|Intel A770 で 登場直後のMHWsベンチを回した話]]
@@ -14,7 +15,8 @@
 - [[Report/全国プロデューサー検定（アイマス検定）を受験した話\|全国プロデューサー検定（アイマス検定）を受験した話]]
 
 { .block-language-dataview}
-### Memo
+## Memo
+*簡単なメモ書き、手順書*
 - [[Memo/Ubuntu/aptコマンド\|aptコマンド]]
 - [[Memo/Ubuntu/CPUガバナー\|CPUガバナー]]
 - [[Memo/Ubuntu/Docker(Ubuntu)\|Docker(Ubuntu)]]
