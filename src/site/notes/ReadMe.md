@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T02:16:58.402+09:00","updated":"2026-03-01T21:04:19.595+09:00"}
+{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T02:16:58.402+09:00","updated":"2026-03-01T21:29:54.318+09:00"}
 ---
 
 # Welcome to Docs
@@ -15,7 +15,7 @@
 
 { .block-language-dataview}
 ## Memo
-*簡素なメモとか手順書*
+*簡素な書置きや手順書*
 - [[Memo/Windows\|Windows]]
 - [[Memo/Android\|Android]]
 - [[Memo/RTX1210\|RTX1210]]
