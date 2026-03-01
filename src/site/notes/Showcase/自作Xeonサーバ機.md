@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"xeonServer-machine","permalink":"/xeonServer-machine/","tags":["Showcase"],"created":"2026-03-01T02:17:24.511+09:00","updated":"2026-03-01T18:41:15.056+09:00"}
+{"dg-publish":true,"dg-permalink":"xeonServer-machine","permalink":"/xeonServer-machine/","hide":"true","tags":["Showcase"],"created":"2026-03-01T02:17:24.511+09:00","updated":"2026-03-01T21:38:38.548+09:00"}
 ---
 
 ![xeonserver-rm21308.png](/img/user/_img/Personal/xeonserver-rm21308.png)![xeonserver.jpg](/img/user/_img/Personal/xeonserver.jpg)## レポート

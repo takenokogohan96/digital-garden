@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gt7garage","permalink":"/gt7garage/","tags":["Showcase"],"created":"2026-03-01T02:17:24.293+09:00","updated":"2026-02-28T22:02:40.000+09:00"}
+{"dg-publish":true,"dg-permalink":"gt7garage","permalink":"/gt7garage/","hide":"true","tags":["Showcase"],"created":"2026-03-01T02:17:24.293+09:00","updated":"2026-03-01T21:38:20.086+09:00"}
 ---
 
 ## Video
