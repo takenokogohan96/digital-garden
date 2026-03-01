@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T02:16:58.402+09:00","updated":"2026-03-01T20:45:02.173+09:00"}
+{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T02:16:58.402+09:00","updated":"2026-03-01T20:48:44.525+09:00"}
 ---
 
 # Welcome to Docs
 本サイト `docs.takeno.tech` は [[Takeno\|Takeno]] の外向けドキュメント集です。
-🏗️ : [Obsidian](https://obsidian.md/)  +  [Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) + [vercel](https://vercel.com)
 ## Report
 *不特定多数へ向けた読み物*
 - [[Report/Xeon E5-2682 v4 でサーバを構築した話\|Xeon E5-2682 v4 でサーバを構築した話]]
@@ -33,3 +32,6 @@
 - [[Memo/Gnome\|Gnome]]
 
 { .block-language-dataview}
+---
+🏗️: [Obsidian](https://obsidian.md/)  +  [Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) + [vercel](https://vercel.com)
+✉:takenokogohan96@gmail.com
