@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"a770-mhws","permalink":"/a770-mhws/","tags":["Report"],"created":"2026-03-01T02:17:23.846+09:00","updated":"2026-03-01T18:40:06.069+09:00"}
+{"dg-publish":true,"dg-permalink":"a770-mhws","permalink":"/a770-mhws/","tags":["Report"],"created":"2026-03-01T02:17:23.846+09:00","updated":"2026-03-01T21:30:31.455+09:00"}
 ---
 
 2025年2月、ワイルズのベンチマークソフトが登場したのでA770環境で回しました。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mltd-8th","permalink":"/mltd-8th/","tags":["Report"],"created":"2026-03-01T02:17:25.694+09:00","updated":"2026-03-01T18:48:51.259+09:00"}
+{"dg-publish":true,"dg-permalink":"mltd-8th","permalink":"/mltd-8th/","tags":["Report"],"created":"2026-03-01T02:17:25.694+09:00","updated":"2026-03-01T21:30:33.595+09:00"}
 ---
 
 2025年の7月、ミリシタ8周年イベントを走りました
