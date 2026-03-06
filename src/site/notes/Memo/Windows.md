@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"windows","permalink":"/windows/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:04:42.641+09:00"}
+{"dg-publish":true,"dg-permalink":"windows","permalink":"/windows/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:08:57.521+09:00"}
 ---
-
 
 ## タスクバーの時刻に秒を表示
 設定  > 時刻と言語 > 日付と時刻 > システムトレイに時刻と日付を表示する

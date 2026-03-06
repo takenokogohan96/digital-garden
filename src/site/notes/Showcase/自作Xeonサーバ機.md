@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"xeonServer-machine","permalink":"/xeonServer-machine/","tags":["Showcase"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-06T23:57:22.046+09:00"}
+{"dg-publish":true,"dg-permalink":"xeonServer-machine","permalink":"/xeonServer-machine/","tags":["Showcase"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:08:39.780+09:00"}
 ---
-
 
 ![xeonserver-rm21308.png](/img/user/_img/Personal/xeonserver-rm21308.png)![xeonserver.jpg](/img/user/_img/Personal/xeonserver.jpg)## レポート
 - [[Report/Xeon E5-2682 v4 でサーバを構築した話\|Xeon E5-2682 v4 でサーバを構築した話]]

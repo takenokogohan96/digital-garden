@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"gnome","permalink":"/gnome/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:04:42.642+09:00"}
+{"dg-publish":true,"dg-permalink":"gnome","permalink":"/gnome/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:09:00.014+09:00"}
 ---
-
 
 ## Dash to Dockを導入する
 Gnome Shell Extensionsを介する

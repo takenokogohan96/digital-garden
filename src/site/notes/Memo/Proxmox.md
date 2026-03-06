@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"proxmox","permalink":"/proxmox/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-06T23:57:22.007+09:00"}
+{"dg-publish":true,"dg-permalink":"proxmox","permalink":"/proxmox/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:08:59.161+09:00"}
 ---
-
 
 ## CPU Governor
 ### 使用できる動作モードの一覧を表示

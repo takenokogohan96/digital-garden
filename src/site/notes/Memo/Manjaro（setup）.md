@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"manjaro","permalink":"/manjaro/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:04:42.642+09:00"}
+{"dg-publish":true,"dg-permalink":"manjaro","permalink":"/manjaro/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:08:59.563+09:00"}
 ---
-
 
 ## 豆腐を消す
 ### 日本語
