@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","tags":["Index"],"created":"2026-03-01T02:16:58.438+09:00","updated":"2026-03-01T21:00:05.333+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","tags":["Index"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-06T23:57:21.990+09:00"}
 ---
+
 
 ## プロフィール
 - 📛**読み** - たけの

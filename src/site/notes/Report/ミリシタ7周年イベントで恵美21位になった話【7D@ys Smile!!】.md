@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"mltd-7th","permalink":"/mltd-7th/","tags":["Report"],"created":"2026-03-01T02:17:23.801+09:00","updated":"2026-03-01T21:30:32.367+09:00"}
+{"dg-publish":true,"dg-permalink":"mltd-7th","permalink":"/mltd-7th/","tags":["Report"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-06T23:57:22.023+09:00"}
 ---
+
 
 2024年の7月、ミリシタ7周年イベントを走りました
 ![7th-ad.jpg](/img/user/_img/imas/7th-ad.jpg)

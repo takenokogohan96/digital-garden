@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"bios","permalink":"/bios/","tags":["Memo"],"created":"2026-03-01T02:17:24.233+09:00","updated":"2026-03-01T21:27:00.293+09:00"}
+{"dg-publish":true,"dg-permalink":"bios","permalink":"/bios/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:04:42.640+09:00"}
 ---
+
 
 
 > [!NOTE] 確認環境

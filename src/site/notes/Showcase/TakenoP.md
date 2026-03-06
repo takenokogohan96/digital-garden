@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","hide":"true","tags":["Showcase"],"created":"2026-03-01T02:17:24.303+09:00","updated":"2026-03-01T21:38:38.518+09:00"}
+{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","tags":["Showcase"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-06T23:57:22.034+09:00"}
 ---
+
 
 ![mltd_card.png](/img/user/_img/imas/mltd_card.png)
 ## レポート

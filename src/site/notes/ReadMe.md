@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T02:16:58.402+09:00","updated":"2026-03-01T21:33:30.649+09:00"}
+{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-06T23:57:21.988+09:00"}
 ---
+
 
 # Welcome to Docs
 本サイト `docs.takeno.tech` は、[[Takeno\|Takeno]] の外向けドキュメントです。

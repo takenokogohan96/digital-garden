@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"ubuntu","permalink":"/ubuntu/","tags":["Memo"],"created":"2026-03-01T21:15:28.918+09:00","updated":"2026-03-01T21:16:09.605+09:00"}
+{"dg-publish":true,"dg-permalink":"ubuntu","permalink":"/ubuntu/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-06T23:57:22.010+09:00"}
 ---
+
 
 ## aptコマンド
 ### パッケージリストを更新する

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"home-network","permalink":"/home-network/","hide":"true","tags":["Showcase"],"created":"2026-03-01T02:17:24.648+09:00","updated":"2026-03-01T21:38:38.554+09:00"}
+{"dg-publish":true,"dg-permalink":"home-network","permalink":"/home-network/","tags":["Showcase"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-06T23:57:22.048+09:00"}
 ---
+
 
 ## ラック
 - 主回線と予備回線の2回線、主回線はIPoEとPPPoE併用運用につき合計3回線
