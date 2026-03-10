@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"dg-permalink":"gnome","permalink":"/gnome/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:09:00.014+09:00"}
+{"dg-publish":true,"dg-permalink":"gnome","permalink":"/gnome/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-11T00:11:02.152+09:00"}
 ---
 
-## Dash to Dockを導入する
-Gnome Shell Extensionsを介する
-https://extensions.gnome.org/extension/307/dash-to-dock/
+## Dockの機能を拡張する
+1. Extension Manager を導入する
+```
+sudo apt install gnome-shell-extension-manager
+```
+1. [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)を導入する
 ## トップバーの時計に秒を表示する
 設定アプリ > システム > 日付と時刻 > 時計とカレンダー > 秒 を有効にする
 ![gnome-topber-displayseconds.png](/img/user/_img/Tech/gnome-topber-displayseconds.png)
@@ -13,7 +16,7 @@ https://extensions.gnome.org/extension/307/dash-to-dock/
 2. 拡張機能アプリ > Dash to Dock の設定 > 外観タブ と遷移する
 3. 「Show overview on startup」を無効にする
 ![gnome-activitiesoverview.png](/img/user/_img/Tech/gnome-activitiesoverview.png)
-## 画面拡大率の小刻にする
+## 画面拡大率を小刻にする
 ```
 gsettings set org.gnome.mutter experimental-features '["scale-monitor-framebuffer", "xwayland-native-scaling"]'
 ```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:09:10.831+09:00"}
+{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-11T00:00:43.881+09:00"}
 ---
 
 # Welcome to Docs
@@ -23,7 +23,7 @@
 - [[Memo/Manjaro（setup）\|Manjaro（setup）]]
 - [[Memo/Proxmox\|Proxmox]]
 - [[Memo/RTX1210\|RTX1210]]
-- [[Memo/Ubuntu\|Ubuntu]]
+- [[Memo/apt（Debian）\|Ubuntu]]
 - [[Memo/Windows\|Windows]]
 
 { .block-language-dataview}
