@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"debian","permalink":"/debian/","tags":["Memo"],"created":"2026-03-08T22:11:04.489+09:00","updated":"2026-03-11T01:35:09.356+09:00"}
+{"dg-publish":true,"dg-permalink":"debian","permalink":"/debian/","tags":["Memo"],"created":"2026-03-08T22:11:04.489+09:00","updated":"2026-03-11T22:50:00.024+09:00"}
 ---
 
 > [!NOTE] 構築環境
@@ -20,10 +20,23 @@ su -
 ```
 usermod -aG sudo {自ユーザ名}
 ```
+入力フレームワークをFcitx5に切り替えて再起動する
+```
+im-config -n fcitx5
+reboot
+```
+再起動後「Fcitx5 設定」をこねる
+### 日本語入力環境を整える
+Fcitx5、Mozc、設定ツールをインストールする
+```
+sudo apt install fcitx5 fcitx5-mozc fcitx5-config-qt im-config
+```
 再起動する（設定を反映する）
 ```
 reboot
 ```
+お好みでMozcに辞書を追加する
+- [Google日本語入力強化](https://www.mediafire.com/?cy1mxpjds5l5h) > カナ英辞書v2 など
 ### ターミナルをZshに入れ替える
 Zshをインストールする
 ```
