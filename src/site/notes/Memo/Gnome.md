@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gnome","permalink":"/gnome/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-11T22:37:08.792+09:00"}
+{"dg-publish":true,"dg-permalink":"gnome","permalink":"/gnome/","tags":["Memo"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-12T00:05:59.312+09:00"}
 ---
 
 ## Settings
@@ -25,6 +25,13 @@ sudo apt install gnome-tweaks
 - [Vimix-cursors](https://github.com/vinceliuice/Vimix-cursors) - カーソル
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-folders) - アイコン
 - [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - フォルダアイコン
+## Grub（Grub Customizer）
+```
+sudo apt install grub-customizer
+```
+- [Distro Grub Themes](https://github.com/AdisonCavani/distro-grub-themes?tab=readme-ov-file) - ディストロテーマ
+## plymouth-themes
+- [Linux Distro Logos](https://www.pling.com/p/2106821) - ディストロテーマ
 ## ファイラーに Google Drive を表示する
 `gvfs-google` を導入する
 https://archlinux.org/packages/extra/x86_64/gvfs-google/
