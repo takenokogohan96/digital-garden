@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"gt7garage","permalink":"/gt7garage/","tags":["Showcase"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-07T00:08:51.409+09:00"}
+{"dg-publish":true,"dg-permalink":"gt7garage","permalink":"/gt7garage/","tags":["Showcase"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-03-31T22:25:47.537+09:00"}
 ---
 
 ## Video
 - 雑多な記録 ([youtube](https://www.youtube.com/playlist?list=PLjUl4UDUMER5asuj4uWv2lri42FBfn9K6))
-- デイリーB初優勝レース ([youtube](https://youtu.be/fdBLRI4CdoI))
+- [Daily B - 2025/09/18 1st ](https://www.youtube.com/watch?v=fdBLRI4CdoI)（Nürburgring（24h Layouts））
+- [Nurburgring Circuit Experiences - All Gold](https://www.youtube.com/live/lHrFMZYmBu0)
 ## Gallery
 
 |     ![gt7_delta.jpeg](/img/user/_img/gt7/gt7_delta.jpeg)<br>**Lancia<br>DELTA HF Integrale Evoluzione '91**      |                ![gt7_gto.jpeg](/img/user/_img/gt7/gt7_gto.jpeg)**Mitsubishi<br>GTO Twin Turbo '91**                 |
