@@ -12,9 +12,9 @@
 	1. 長期間電力制限 > 平時使用の電力リミット（PL1）
 	2. 短時間電力制限 > 高負荷時の電力リミット（PL2）
 
-![Intelcpu-powerlimit.jpg](/img/user/_img/Tech/Intelcpu-powerlimit.jpg)
+![Intelcpu-powerlimit.jpg](/img/user/_img/Intelcpu-powerlimit.jpg)
 ## RTCアラーム起動
 1. BIOSを起動する
 2. アドバンスド > ACPI設定 > RTC アラーム電源オン > 有効
 
-![rtcalarm.jpg](/img/user/_img/Tech/rtcalarm.jpg)
+![rtcalarm.jpg](/img/user/_img/rtcalarm.jpg)

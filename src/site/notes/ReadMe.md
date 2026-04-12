@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-04-12T22:36:38.509+09:00"}
+{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-04-12T23:14:12.244+09:00"}
 ---
 
 
@@ -27,5 +27,3 @@
 ---
 build： [Obsidian](https://obsidian.md/)  +  [Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) + [vercel](https://vercel.com)
 mail： takenokogohan96@gmail.com
-
-[^1]: 

@@ -32,13 +32,13 @@ Gnome環境の場合、加えてGnome拡張 を入れる
 - IMEの状態(MozcなJP⇔US など)をトップバーに表示する
 ### カタカナ英語の変換
 [カナ英辞書v2.txt](https://www.mediafire.com/?cy1mxpjds5l5h)を辞書ツールに導入する
-![fcitx5-kana-english.png](/img/user/_img/Tech/fcitx5-kana-english.png)
+![fcitx5-kana-english.png](/img/user/_img/fcitx5-kana-english.png)
 ## スワップ領域の作成
 [ArchWiki の Swap](https://wiki.archlinux.org/title/Swap#Swap_file) に従いスワップ領域を削除してから再作成を行う。
 > [!NOTE]
 > 新規にManjaroをインストールしたさいスワップファイル作成する設定にしても、数百MB程度しかスワップ領域が確保されない場合がある。
 
 ## Fastfetch
-![fastfetch.png](/img/user/_img/Tech/fastfetch.png)
+![fastfetch.png](/img/user/_img/fastfetch.png)
 > [!caution]
 > かつての `Neofetch` は開発が終了している。

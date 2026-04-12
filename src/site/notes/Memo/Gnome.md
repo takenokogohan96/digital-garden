@@ -38,7 +38,7 @@ https://archlinux.org/packages/extra/x86_64/gvfs-google/
 
 > [!caution]
 > ファイラー上ファイル名は正しく表示するが、別アプリ上では**ファイルID**を表示する
-> ![gnome-gvfs-google-filer.png](/img/user/_img/Tech/gnome-gvfs-google-filer.png)
-> ![gnome-gvfs-google-otherapps.png](/img/user/_img/Tech/gnome-gvfs-google-otherapps.png)
+> ![gnome-gvfs-google-filer.png](/img/user/_img/gnome-gvfs-google-filer.png)
+> ![gnome-gvfs-google-otherapps.png](/img/user/_img/gnome-gvfs-google-otherapps.png)
 
 

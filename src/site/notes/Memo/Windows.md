@@ -4,14 +4,14 @@
 
 ## タスクバーの時刻に秒を表示
 設定  > 時刻と言語 > 日付と時刻 > システムトレイに時刻と日付を表示する
-![taskbarviewsecond.png](/img/user/_img/Tech/taskbarviewsecond.png)
+![taskbarviewsecond.png](/img/user/_img/taskbarviewsecond.png)
 ## 定刻シャットダウン
 1. トリガーの設定 > 実行間隔と時刻
 2. 操作の編集
 	1. プログラム/スクリプト：`shutdown`
 	2. 引数：`-s -t 300 -c "表示文言"`
 
-![taskscheduler-shutdown.jpg](/img/user/_img/Tech/taskscheduler-shutdown.jpg)
+![taskscheduler-shutdown.jpg](/img/user/_img/taskscheduler-shutdown.jpg)
 ## Hyper-Vの入れ子
 1. VMをシャットダウンしてホストOSに戻る
 2. 以下のコマンドを投入
