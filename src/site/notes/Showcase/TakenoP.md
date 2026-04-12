@@ -32,4 +32,4 @@
 
 ## 全国プロデューサー検定（アイマス検定）
 
-![imas_credentials.jpg](/img/user/_img/imas/imas_credentials.jpg)
+![imas_credentials.jpg](imas_credentials.jpg)

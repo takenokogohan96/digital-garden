@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-04-12T22:06:16.588+09:00"}
+{"dg-publish":true,"permalink":"/read-me/","tags":["Index","gardenEntry"],"created":"2026-03-01T04:50:16.000+09:00","updated":"2026-04-12T22:36:38.509+09:00"}
 ---
 
 
@@ -9,11 +9,6 @@
 
 # Welcome to Docs
 本サイト `docs.takeno.tech` は、[[Takeno\|Takeno]] の外向けドキュメントです。
-## Report
-*不特定多数へ向けた読み物*
-- [[Report/ミリシタ7周年イベントで恵美21位になった話【7D@ys Smile!!】\|ミリシタ7周年イベントで恵美21位になった話【7D@ys Smile!!】]]
-- [[Report/ミリシタ8周年イベントで恵美3位になった話【超々∞MUGEND@I!】\|ミリシタ8周年イベントで恵美3位になった話【超々∞MUGEND@I!】]]
-- [[Report/全国プロデューサー検定（アイマス検定）を受験した話\|全国プロデューサー検定（アイマス検定）を受験した話]]
 
 { .block-language-dataview}
 ## Memo
